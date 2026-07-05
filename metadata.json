@@ -1,6 +1,4 @@
 {
   "name": "Happy Birthday Matt",
-  "description": "Website ucapan ulang tahun interaktif dan estetik untuk Matt dengan animasi balon melayang, kue ulang tahun dengan lilin interaktif, dan musik latar lembut.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "description": "Website ucapan ulang tahun interaktif dan estetik untuk Matt dengan animasi balon melayang, kue ulang tahun dengan lilin interaktif, dan musik latar lembut."
 }
